@@ -1,0 +1,1925 @@
+{
+  "title": "pdf_sample",
+  "outline": [
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸1",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "1. Introduction",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "D : M =",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "miK[Zi],",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "sdepth(D) :=",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "min",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "sdepth(M) ≥ depth(M).",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "Romania, E-mail: mircea.cimpoeas@upb.ro, mircea.cimpoeas@imar.ro",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "2020 Mathematics Subject Classification. 05E40; 06A17; 13A15; 13C15; 13P10.",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "arXiv:2507.17935v1  [math.AC]  23 Jul 2025",
+      "page": 1
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "for any monomial ideal I ⊂ S?",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "finitely generated multigraded S-modules, then",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "slength(M) ≤ slength(U) + slength(N).",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "slength((J : v)/(I : v)) ≤ slength(J/I).",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "slength(J/I) ≥ slength(Jp/Ip).",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "ideals then",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "slength(J/I) ≥ slength(",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "I).",
+      "page": 2
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "D : J/I =",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi],",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "we have",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "slength(J(s)/I(s)) ≤ slength(J(ks)/I(ks)),",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "holds.",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "|G(I)|, then I has linear quotients.",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "the scope of our paper.",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "2. Main results",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "First, we prove the following result:",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "generated multigraded S-modules. Then",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "slength(M) ≤ slength(U) + slength(N).",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "M of length r + s.",
+      "page": 3
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "slength(I) ≥ |G(I)|.",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "the form",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "(2.1)",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "slength(uI) = slength(I).",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "slength(uI) ≤ slength(I).",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "slength(I) ≤ slength(uI).",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "Thus, we completed the proof.",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "slength(I : v) ≤ slength(I).",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "decomposition of I, it follows that",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "D′ : (I : v) =",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "xn|ui",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "(ui/xn)K[Zi] ⊕",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "xn∤ui, xn∈Zi",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi]",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "The last assertion follows from Proposition 2.3.",
+      "page": 4
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "slength(IS[xn+1]) = slength(I).",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "D′ : IS[xn+1] = u1K[Z′",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "1] ⊕ · · · ⊕ urK[Z′",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "r],",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "slength(IS[xn+1]) ≤ slength(I).",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "of IS[xn+1]. Note that",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "viK[Wi] ∩ S =",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "{0}, xn+1 | vi",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "viK[Wi \\ {xn+1}], xn+1 ∤ vi",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "for all 1 ≤ i ≤ p.",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "Hence, D",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "I = �",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "slength(D) ≤ slength(D′). Hence,",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "slength(IS[xn+1]) ≥ slength(I),",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "as required.",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "(1) slength(I ∩ J) ≤ rs.",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "(3) slength(S/(I + J)) ≤ ¯r¯s.",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "I + J = I ⊕ (J ∩ (S/I)).",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "(2.2)",
+      "page": 5
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "Proof. Assume that u = xa1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 xa2",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "2 · · · xan",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "D : S/(u) =",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "a1−1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "i1=0",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "xi1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 K[x2, x3, . . . , xn] ⊕",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "a2−1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "i2=0",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "xa1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 xi2",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "2 K[x1, x3, x4, . . . , xn] ⊕ · · ·",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "· · · ⊕",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "an−1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "in=0",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "xa1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 · · · xan−1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "n−1 xin",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "i=1 uiK[Zi] be a Stanley",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "as required.",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "prime ideal. Then",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "slength(I) = m.",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "ideal",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "G(I) = {xa1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 xb1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "2 , xa2",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 xb2",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "2 , . . . , xam",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 xbm",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "2 },",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 xb1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "2 (I : xam",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 xb1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "2 ), we can assume that",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1xd",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "1 , xbm",
+      "page": 6
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "uiℓK[Ziℓ] ⊂ xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "1K[x2] ∩ I.",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "ujℓK[Zjℓ] ⊂ xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "2K[x1] ∩ I.",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "1 xbi",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "kℓ := min{k : xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "1xk",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "2 ∈ I} and uℓ+2 = xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "1xkℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "2 .",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "It follows that I ∩ xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "tℓ := min{t : xt",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "1xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "2 ∈ I} and uℓ+2+ai = xtℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "1 xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "It follows that I ∩ xℓ",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "I =",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "ai+bi+1",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi],",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "is a Stanley decomposition of I.",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "tion of [5, Theorem 2.1]:",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "satisfied:",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "and only if Φ(v) ∈ Φ(u)K[Z].",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "Then slength(J1/I1) ≤ slength(J2/I2).",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "Proof. Consider a Stanley decomposition",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "D : J2/I2 =",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "viK[Zi]",
+      "page": 7
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "D′ : J1/I1 =",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi]",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "is a Stanley decomposition of J1/I1. Hence",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "which completes the proof.",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "Proposition 2.4:",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "slength((J : v)/(I : v)) ≤ slength(J/I).",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "deduce the following:",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "s ≥ 1.",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "j=1",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "aij",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "where",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "vi =",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "j=1",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "aij",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "k=1",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "xjk, 1 ≤ i ≤ m.",
+      "page": 8
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "vi =",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "yui/xj,",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "j | ui",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "ui,",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "j ∤ ui",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "polarizations. Then",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "slength(J/I) ≥ slength(Jp/Ip).",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Φ(u) =",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "yu/xn,",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "n | u",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Let D : J/I =",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "slength(D) = slength(J/I).",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "We consider the subsets of variables",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "i =",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Zi ∪ {y},",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "xn ∈ Zi",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Zi ∪ {{xn, y} \\ {Φ(xnui)/Φ(ui)}},",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "xn /∈ Zi",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Note that Z′",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "n ∤ ui, when",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "i = Zi ∪ {xn}.",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "D′ : J1/I1 =",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Φ(ui)K[Z′",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "slength(J/I) ≥ slength(",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "I).",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "Proof. Let D : J/I =",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "j | u for some",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "I) ∪ G(",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "the set of indexes",
+      "page": 9
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "where degxk(ui) = max{b : xb",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "k | ui}. Let cij =",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "bij",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "i = xci1",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "1 xci2",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "2 · · · xcin",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "n , for all i ∈ I.",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "D′ :",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "I =",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "i∈I",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "iK[Zi],",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "is a Stanley decomposition of",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "sion.",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "αk(I) = max{j : xj",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "that",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "slength(I) ≤",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "k=2",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "(βk(I) − αk(I) + 1).",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "a), for some nonnegative",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "required.",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "I ∩ xj",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "nS′ = xj",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "I =",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "α≤j<β",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "nIj ⊕ xβ",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "nIβ[xn].",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "Moreover, if Dj : Ij =",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "D : I =",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "α≤j<β",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "nuijK[Zij] ⊕",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "uijK[Zij ∪ {xn}],",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "(2.3)",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "that",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "(2.4)",
+      "page": 10
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "slength(I) ≤ slength(I′) + slength(I′′).",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "I = I′′ ⊕ xnI′.",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "Then",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "slength(I) = slength(I′) + 1.",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "slength(I) ≤ slength(I′) + 1.",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi] be a Stanley decomposition",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi] ∩ S′ =",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "xn | ui",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi \\ {xn}],",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "xn ∤ ui",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "It follows that",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "I′ = I ∩ S′ =",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "(uiK[Zi] ∩ S′).",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "I′ =",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "i=2",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "(uiK[Zi] ∩ S′),",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "required.",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "two cases:",
+      "page": 11
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "as required.",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "(ii) d1 ≥ 2. Let u′",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "as required.",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "Hence, the proof is complete.",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "We propose the following conjecture:",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "3. The squarefree case",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "j∈F",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "xj. Let I ⊂ S be a",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "simplicial complex associated to J/I is",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "partition of ∆(J/I) is decomposition",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "P : ∆(J/I) =",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "[Fi, Gi],",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "supp(u) = {xj : xj | u}.",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "A Stanley decomposition",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "D : J/I =",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi],",
+      "page": 12
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "(1) Let P : ∆(J/I) =",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "D : J/I =",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi],",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "is a squarefree Stanley decomposition of J/I.",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "(2) Let D : J/I =",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "D′ : J/I =",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "ui is squarefree",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "uiK[Zi ∪ supp(ui)],",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "is a squarefree Stanley decomposition of J/I.",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "sdepth(D).",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "slength(D).",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "sdepth(D′) ≥ sdepth(D) and slength(D′) ≤ slength(D).",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "Hence, we get the required conclusions.",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "of two squarefree monomial ideals:",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "slength(J/I) ≤ |∆(J/I)|.",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "D : J/I =",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "u∈J\\I, u squarefree",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "uK[supp(u)]",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "is a Stanley decomposition of J/I.",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "is a disjoint union",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "P : P =",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "[Fi, Gi],",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "Stanley length of P is",
+      "page": 13
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "slength(J/I) = slength(∆(J/I)).",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "i=1",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "follows from Proposition 3.4.",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "primary decomposition",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "I(k) = P k",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "1 ∩ P k",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "We have the following result:",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "slength(J(s)/I(s)) ≤ slength(J(ks)/I(ks)).",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "we apply Theorem 2.10.",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "slength(I(k)) ≤ slength(I(k+t)) and slength(S/I(k)) ≤ slength(S/I(k+t)).",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "3.7].",
+      "page": 14
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "4. Monomial ideals with linear quotients",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "Ij/Ij−1 = uj(S/(Ij−1 : uj)) = ujK[Zj].",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "(4.1)",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "it follows that",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "a contradiction.",
+      "page": 15
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 ≤ i ≤ m.",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "the conclusion follows from Theorem 4.1.",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "to show that",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "(4.2)",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "w2, w3 ∈ S such that",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "xj2u2 = xj3u3 ∈ u2K[Z2] ∩ u3K[Z3],",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "a contradiction.",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "G(I) = {xa1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 xb1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 , xa2",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 xb2",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 , . . . , xam",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 xbm",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 },",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "G(I) = {xa1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 , xa2",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 x2, xa3",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 x2",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2, . . . , xai",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 xbi",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 , xai−1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "xbi+1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": ", . . . , x1xbm−1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": ", xbm",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 }.",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "We consider the following order of G(I):",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "u1 = xai",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 xbi",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 , u2 = xai−1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "xbi−1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 x2, ubi+1 = xa1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "1 ,",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "ubi+2 = xai−1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "xbi+1",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": ", uai+bi+1 = xbm",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "2 .",
+      "page": 16
+    },
+    {
+      "level": "1",
+      "text": "ON THE STANLEY LENGTH OF MONOMIAL IDEALS",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "It follows that",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "Hence, I has linear quotients, as required.",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "Example 4.4.",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "(2) Let I = (x2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1x2, x1x2x3, x3",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "linear quotients and, moreover",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "D : I = x2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1x3K[x1, x3],",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "3 = sdepth(I).",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "has linear quotients, and",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "However, I admits also the following decomposition:",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "order, since (x2x3x4 : x1x2) = (x3x4).",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "(4) Let I = (x2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1x2, x2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1x3, x2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1x2K[x1, x2, x4] ⊕ x2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1x3K[x1, x2, x3] ⊕ x2",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "1x4K[x1, x3, x4]",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "monomial generators of I.",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "length at least 4.",
+      "page": 17
+    },
+    {
+      "level": "1",
+      "text": "MIRCEA CIMPOEAS¸",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "ated or analysed during the current study.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "disclose.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "References",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Comb. 17 (2003), 57–74.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Computer Science 2(1), (2012), 28–40.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "5–16.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Ltd., London, 2011.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "Algebra 322(9), (2009), 3151–3169.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "(2010), 773–784.",
+      "page": 18
+    },
+    {
+      "level": "1",
+      "text": "175–193.",
+      "page": 18
+    }
+  ]
+}
